@@ -1,7 +1,7 @@
 {
   "name": "aithor",
   "version": "1.1.6",
-  "description": "Aithor - an open-source, high-performance chatbot framework that supports speech synthesis, multimodal, and extensible Function Call plugin system. Supports one-click free deployment of your private ChatGPT/LLM web application.",
+  "description": "Aithor — An open-source, high-performance chatbot framework with speech synthesis, multimodal capabilities, and an extensible Function Call plugin system. Easily deploy your own private ChatGPT/LLM web application with just one click  for free",
   "keywords": [
     "framework",
     "chatbot",
